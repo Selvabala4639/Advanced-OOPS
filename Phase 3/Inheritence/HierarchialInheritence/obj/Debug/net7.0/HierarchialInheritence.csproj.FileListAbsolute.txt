@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\bin\Debug\net7.0\HierarchialInheritence.exe
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\bin\Debug\net7.0\HierarchialInheritence.deps.json
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\bin\Debug\net7.0\HierarchialInheritence.runtimeconfig.json
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\bin\Debug\net7.0\HierarchialInheritence.dll
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\bin\Debug\net7.0\HierarchialInheritence.pdb
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\HierarchialInheritence.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\HierarchialInheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\HierarchialInheritence.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\HierarchialInheritence.AssemblyInfo.cs
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\HierarchialInheritence.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\HierarchialInheritence.dll
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\refint\HierarchialInheritence.dll
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\HierarchialInheritence.pdb
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\HierarchialInheritence.genruntimeconfig.cache
+D:\C# programs\Phase 3\Inheritence\HierarchialInheritence\obj\Debug\net7.0\ref\HierarchialInheritence.dll

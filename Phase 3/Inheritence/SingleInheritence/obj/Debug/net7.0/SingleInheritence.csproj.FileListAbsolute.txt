@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\bin\Debug\net7.0\SingleInheritence.exe
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\bin\Debug\net7.0\SingleInheritence.deps.json
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\bin\Debug\net7.0\SingleInheritence.runtimeconfig.json
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\bin\Debug\net7.0\SingleInheritence.dll
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\bin\Debug\net7.0\SingleInheritence.pdb
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\SingleInheritence.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\SingleInheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\SingleInheritence.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\SingleInheritence.AssemblyInfo.cs
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\SingleInheritence.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\SingleInheritence.dll
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\refint\SingleInheritence.dll
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\SingleInheritence.pdb
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\SingleInheritence.genruntimeconfig.cache
+D:\C# programs\Phase 3\Inheritence\SingleInheritence\obj\Debug\net7.0\ref\SingleInheritence.dll

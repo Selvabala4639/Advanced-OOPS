@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\FileHandling\FileFolder\bin\Debug\net7.0\FileFolder.exe
+D:\C# programs\Phase 3\FileHandling\FileFolder\bin\Debug\net7.0\FileFolder.deps.json
+D:\C# programs\Phase 3\FileHandling\FileFolder\bin\Debug\net7.0\FileFolder.runtimeconfig.json
+D:\C# programs\Phase 3\FileHandling\FileFolder\bin\Debug\net7.0\FileFolder.dll
+D:\C# programs\Phase 3\FileHandling\FileFolder\bin\Debug\net7.0\FileFolder.pdb
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\FileFolder.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\FileFolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\FileFolder.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\FileFolder.AssemblyInfo.cs
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\FileFolder.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\FileFolder.dll
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\refint\FileFolder.dll
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\FileFolder.pdb
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\FileFolder.genruntimeconfig.cache
+D:\C# programs\Phase 3\FileHandling\FileFolder\obj\Debug\net7.0\ref\FileFolder.dll

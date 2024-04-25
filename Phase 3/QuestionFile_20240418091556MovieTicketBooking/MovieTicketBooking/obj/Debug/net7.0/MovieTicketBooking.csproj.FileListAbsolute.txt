@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.exe
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.deps.json
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.runtimeconfig.json
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.dll
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\bin\Debug\net7.0\MovieTicketBooking.pdb
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.AssemblyInfo.cs
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.dll
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\refint\MovieTicketBooking.dll
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.pdb
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\MovieTicketBooking.genruntimeconfig.cache
+D:\C# programs\Phase 3\QuestionFile_20240418091556MovieTicketBooking\MovieTicketBooking\obj\Debug\net7.0\ref\MovieTicketBooking.dll

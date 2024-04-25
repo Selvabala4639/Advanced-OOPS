@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\Assignments\Partial1\bin\Debug\net7.0\Partial1.exe
+D:\C# programs\Phase 3\Assignments\Partial1\bin\Debug\net7.0\Partial1.deps.json
+D:\C# programs\Phase 3\Assignments\Partial1\bin\Debug\net7.0\Partial1.runtimeconfig.json
+D:\C# programs\Phase 3\Assignments\Partial1\bin\Debug\net7.0\Partial1.dll
+D:\C# programs\Phase 3\Assignments\Partial1\bin\Debug\net7.0\Partial1.pdb
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\Partial1.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\Partial1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\Partial1.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\Partial1.AssemblyInfo.cs
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\Partial1.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\Partial1.dll
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\refint\Partial1.dll
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\Partial1.pdb
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\Partial1.genruntimeconfig.cache
+D:\C# programs\Phase 3\Assignments\Partial1\obj\Debug\net7.0\ref\Partial1.dll

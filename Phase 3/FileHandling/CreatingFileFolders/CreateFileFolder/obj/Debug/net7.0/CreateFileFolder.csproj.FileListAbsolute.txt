@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\bin\Debug\net7.0\CreateFileFolder.exe
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\bin\Debug\net7.0\CreateFileFolder.deps.json
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\bin\Debug\net7.0\CreateFileFolder.runtimeconfig.json
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\bin\Debug\net7.0\CreateFileFolder.dll
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\bin\Debug\net7.0\CreateFileFolder.pdb
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\CreateFileFolder.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\CreateFileFolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\CreateFileFolder.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\CreateFileFolder.AssemblyInfo.cs
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\CreateFileFolder.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\CreateFileFolder.dll
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\refint\CreateFileFolder.dll
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\CreateFileFolder.pdb
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\CreateFileFolder.genruntimeconfig.cache
+D:\C# programs\Phase 3\FileHandling\CreatingFileFolders\CreateFileFolder\obj\Debug\net7.0\ref\CreateFileFolder.dll

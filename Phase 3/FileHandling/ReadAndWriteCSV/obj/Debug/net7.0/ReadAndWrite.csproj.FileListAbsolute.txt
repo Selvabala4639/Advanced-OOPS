@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.exe
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.deps.json
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.runtimeconfig.json
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.dll
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\bin\Debug\net7.0\ReadAndWrite.pdb
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.AssemblyInfo.cs
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.dll
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\refint\ReadAndWrite.dll
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.pdb
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ReadAndWrite.genruntimeconfig.cache
+D:\C# programs\Phase 3\FileHandling\ReadAndWrite\obj\Debug\net7.0\ref\ReadAndWrite.dll

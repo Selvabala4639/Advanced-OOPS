@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\bin\Debug\net7.0\MultiLevelInheritence.exe
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\bin\Debug\net7.0\MultiLevelInheritence.deps.json
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\bin\Debug\net7.0\MultiLevelInheritence.runtimeconfig.json
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\bin\Debug\net7.0\MultiLevelInheritence.dll
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\bin\Debug\net7.0\MultiLevelInheritence.pdb
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\MultiLevelInheritence.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\MultiLevelInheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\MultiLevelInheritence.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\MultiLevelInheritence.AssemblyInfo.cs
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\MultiLevelInheritence.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\MultiLevelInheritence.dll
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\refint\MultiLevelInheritence.dll
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\MultiLevelInheritence.pdb
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\MultiLevelInheritence.genruntimeconfig.cache
+D:\C# programs\Phase 3\Inheritence\MultiLevelInhertence\obj\Debug\net7.0\ref\MultiLevelInheritence.dll

@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\bin\Debug\net7.0\PracticeReadWriteTXT.exe
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\bin\Debug\net7.0\PracticeReadWriteTXT.deps.json
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\bin\Debug\net7.0\PracticeReadWriteTXT.runtimeconfig.json
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\bin\Debug\net7.0\PracticeReadWriteTXT.dll
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\bin\Debug\net7.0\PracticeReadWriteTXT.pdb
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\PracticeReadWriteTXT.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\PracticeReadWriteTXT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\PracticeReadWriteTXT.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\PracticeReadWriteTXT.AssemblyInfo.cs
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\PracticeReadWriteTXT.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\PracticeReadWriteTXT.dll
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\refint\PracticeReadWriteTXT.dll
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\PracticeReadWriteTXT.pdb
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\PracticeReadWriteTXT.genruntimeconfig.cache
+D:\C# programs\Phase 3\FileHandling\PracticeReadWriteTXT\obj\Debug\net7.0\ref\PracticeReadWriteTXT.dll

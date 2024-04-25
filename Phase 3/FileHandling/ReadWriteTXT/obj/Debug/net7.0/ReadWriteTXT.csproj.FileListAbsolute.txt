@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.exe
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.deps.json
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.runtimeconfig.json
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.dll
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.pdb
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.AssemblyInfo.cs
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.dll
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\refint\ReadWriteTXT.dll
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.pdb
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.genruntimeconfig.cache
+D:\C# programs\Phase 3\FileHandling\ReadWriteTXT\obj\Debug\net7.0\ref\ReadWriteTXT.dll

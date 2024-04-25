@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\bin\Debug\net7.0\PracticeRAW.exe
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\bin\Debug\net7.0\PracticeRAW.deps.json
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\bin\Debug\net7.0\PracticeRAW.runtimeconfig.json
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\bin\Debug\net7.0\PracticeRAW.dll
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\bin\Debug\net7.0\PracticeRAW.pdb
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\PracticeRAW.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\PracticeRAW.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\PracticeRAW.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\PracticeRAW.AssemblyInfo.cs
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\PracticeRAW.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\PracticeRAW.dll
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\refint\PracticeRAW.dll
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\PracticeRAW.pdb
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\PracticeRAW.genruntimeconfig.cache
+D:\C# programs\Phase 3\FileHandling\PracticeRAW\obj\Debug\net7.0\ref\PracticeRAW.dll

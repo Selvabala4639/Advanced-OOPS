@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\Encapsulation\Outside\bin\Debug\net7.0\Outside.exe
+D:\C# programs\Phase 3\Encapsulation\Outside\bin\Debug\net7.0\Outside.deps.json
+D:\C# programs\Phase 3\Encapsulation\Outside\bin\Debug\net7.0\Outside.runtimeconfig.json
+D:\C# programs\Phase 3\Encapsulation\Outside\bin\Debug\net7.0\Outside.dll
+D:\C# programs\Phase 3\Encapsulation\Outside\bin\Debug\net7.0\Outside.pdb
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\Outside.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\Outside.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\Outside.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\Outside.AssemblyInfo.cs
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\Outside.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\Outside.dll
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\refint\Outside.dll
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\Outside.pdb
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\Outside.genruntimeconfig.cache
+D:\C# programs\Phase 3\Encapsulation\Outside\obj\Debug\net7.0\ref\Outside.dll

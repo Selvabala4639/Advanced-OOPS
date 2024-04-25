@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\Assignments\Multiple1\bin\Debug\net7.0\Multiple1.exe
+D:\C# programs\Phase 3\Assignments\Multiple1\bin\Debug\net7.0\Multiple1.deps.json
+D:\C# programs\Phase 3\Assignments\Multiple1\bin\Debug\net7.0\Multiple1.runtimeconfig.json
+D:\C# programs\Phase 3\Assignments\Multiple1\bin\Debug\net7.0\Multiple1.dll
+D:\C# programs\Phase 3\Assignments\Multiple1\bin\Debug\net7.0\Multiple1.pdb
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\Multiple1.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\Multiple1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\Multiple1.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\Multiple1.AssemblyInfo.cs
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\Multiple1.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\Multiple1.dll
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\refint\Multiple1.dll
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\Multiple1.pdb
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\Multiple1.genruntimeconfig.cache
+D:\C# programs\Phase 3\Assignments\Multiple1\obj\Debug\net7.0\ref\Multiple1.dll

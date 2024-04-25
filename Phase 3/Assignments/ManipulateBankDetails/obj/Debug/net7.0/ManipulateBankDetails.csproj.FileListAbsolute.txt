@@ -1,0 +1,15 @@
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\bin\Debug\net7.0\ManipulateBankDetails.exe
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\bin\Debug\net7.0\ManipulateBankDetails.deps.json
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\bin\Debug\net7.0\ManipulateBankDetails.runtimeconfig.json
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\bin\Debug\net7.0\ManipulateBankDetails.dll
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\bin\Debug\net7.0\ManipulateBankDetails.pdb
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ManipulateBankDetails.csproj.AssemblyReference.cache
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ManipulateBankDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ManipulateBankDetails.AssemblyInfoInputs.cache
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ManipulateBankDetails.AssemblyInfo.cs
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ManipulateBankDetails.csproj.CoreCompileInputs.cache
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ManipulateBankDetails.dll
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\refint\ManipulateBankDetails.dll
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ManipulateBankDetails.pdb
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ManipulateBankDetails.genruntimeconfig.cache
+D:\C# programs\Phase 3\Assignments\ManipulateBankDetails\obj\Debug\net7.0\ref\ManipulateBankDetails.dll
